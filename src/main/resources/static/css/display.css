@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+info{
+    margin: 20px;
+}
+
+.title{
+    font-weight: 700;
+}
+
+.body{
+        border: 2px solid black;
+        border-radius: 10px;
+        padding: 30px;
+}
+
+#back{
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 7px;
+    margin: 5px;
+    text-decoration: none;
+}
